@@ -1,11 +1,11 @@
 ---
 layout: home
-title: Stat 999
+title: Stat 133
 nav_exclude: true
 permalink: /:path/
 seo:
   type: Course
-  name: Stat 999
+  name: Stat 133
 ---
 
 # Short Title of Class
@@ -18,26 +18,20 @@ UC Berkeley
 
 [//]: # (Items below should be of the form [Semester YYYY](semester-year)
 
-[//]: # (Notably the paths should not have leading slashes in real sites.)
-
-1. [Spring 2023 (Quarto)](/stat999-quarto)
-1. [Fall 2024 (MyST)](/stat999-myst)
+1. [Spring 2024](spring-2024)
 
 ## Overview
 
-This is a GitHub Pages template based on Just the Class, developed for the purpose of quickly deploying course overview websites. Such websites link to previous course offerings, provide a summary of what the course is about, and may list learning goals and prerequisites. This paragraph would normally be replaced by an overview of a specific course, and could include information from the [Berkeley Academic Guide](https://guide.berkeley.edu/courses/stat/).
+An introduction to computationally intensive applied statistics. Topics will include organization and use of databases, visualization and graphics, statistical learning and data mining, model validation procedures, and the presentation of results.
 
-## Goals
+## Hours and Format
 
-- **Do** list some goals for the course here.
+- **Fall and/or spring**: 15 weeks - 3 hours of lecture and 2 hours of laboratory per week
 
-- **Or do not** list some goals.
+- **Summer**: 10 weeks - 4 hours of lecture and 3 hours of laboratory per week
 
-- **Decide** if this section is relevant.
+## Additional Details
 
-## Prerequisites
-While we are working to make this class widely accessible, we currently require the following (or equivalent) prerequisites:
+- **Subject/Course Level**: Statistics/Undergraduate
 
-1. **Name of First Class:** Stat 555 covers important things.
-
-1. **Some Other Class:** Stat 777 covers other topics.
+- **Grading/Final exam status**: Letter grade. Final exam required.
