@@ -8,7 +8,7 @@ seo:
   name: Stat 133
 ---
 
-# Short Title of Class
+# Stat 133: Concepts in Computing with Data
 {: .mb-2 }
 UC Berkeley
 {: .mb-0 .fs-6 .text-grey-dk-000 }
