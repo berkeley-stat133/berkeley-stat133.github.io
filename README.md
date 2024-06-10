@@ -1,11 +1,11 @@
 ---
 layout: home
-title: Stat 133
+title: "Stat 133: Concepts in Computing with Data"
 nav_exclude: true
 permalink: /:path/
 seo:
   type: Course
-  name: Stat 133
+  name: "Stat 133: Concepts in Computing with Data"
 ---
 
 # Stat 133: Concepts in Computing with Data
