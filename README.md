@@ -14,24 +14,23 @@ UC Berkeley
 {: .mb-0 .fs-6 .text-grey-dk-000 }
 
 
+
 ## Offerings
 
-[//]: # (Items below should be of the form [Semester YYYY](semester-year)
-
+1. [Fall 2024](fall-2024)
 1. [Spring 2024](spring-2024)
+
+
+
 
 ## Overview
 
-An introduction to computationally intensive applied statistics. Topics will include organization and use of databases, visualization and graphics, statistical learning and data mining, model validation procedures, and the presentation of results.
+An introduction to computationally intensive applied statistics. Topics will include organization and use of databases, visualization and graphics, statistical learning and data mining, model validation procedures, and the presentation of results. This course uses R as its primary computing language; details are determined by the instructor.
 
-## Hours and Format
+## Logistics
 
-- **Fall and/or spring**: 15 weeks - 3 hours of lecture and 2 hours of laboratory per week
+Three hours of lecture and two hours of laboratory per week. Four hours of lecture and three hours of laboratory per week for 10 weeks. Three hours of lecture and two hours of computer laboratory per week. Four hours of lecture and three hours of computer laboratory per week for ten weeks.
 
-- **Summer**: 10 weeks - 4 hours of lecture and 3 hours of laboratory per week
+## Prerequisites
 
-## Additional Details
 
-- **Subject/Course Level**: Statistics/Undergraduate
-
-- **Grading/Final exam status**: Letter grade. Final exam required.
