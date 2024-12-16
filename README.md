@@ -25,7 +25,7 @@ UC Berkeley
 
 ## Overview
 
-An introduction to computationally intensive applied statistics. Topics will include organization and use of databases, visualization and graphics, statistical learning and data mining, model validation procedures, and the presentation of results. This course uses R as its primary computing language; details are determined by the instructor.
+An introduction to computationally intensive applied statistics. Topics will include organization and use of databases, visualization and graphics, statistical learning and data mining, model validation procedures, and the presentation of results. 
 
 ## Logistics
 
