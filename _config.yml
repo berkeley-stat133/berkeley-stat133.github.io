@@ -15,7 +15,7 @@
 # in the templates via \{\{ site.myvariable \}\}.
 title: "Stat 133: Concepts in Computing with Data"
 tagline: Course Overview
-description: "An introduction to computationally intensive applied statistics. Topics will include organization and use of databases, visualization and graphics, statistical learning and data mining, model validation procedures, and the presentation of results. "
+description: "An introduction to computationally intensive applied statistics. Topics will include organization and use of databases, visualization and graphics, statistical learning and data mining, model validation procedures, and the presentation of results. This course uses R as its primary computing language; details are determined by the instructor."
 author: "SCF"
 baseurl: '' # the subpath of your site, e.g. /blog
 url: 'https://stat133.berkeley.edu'
@@ -25,7 +25,7 @@ logo: 'resources/logo.png'
 ga_tracking: "G-"
 
 # Theme settings
-remote_theme: just-the-docs/just-the-docs@v0.7.0
+remote_theme: just-the-docs/just-the-docs@v0.10.1
 color_scheme: light
 search_enabled: true
 heading_anchors: true
